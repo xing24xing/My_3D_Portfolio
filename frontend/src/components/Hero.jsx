@@ -21,7 +21,7 @@ const Hero = () => {
               rel="noopener noreferrer"
               className="inline-block px-6 py-3 bg-[#915EFF] text-white font-semibold rounded-lg shadow-lg"
             >
-              Dowmload Resume
+              Download Resume
             </a>
           </div>
         </div>
